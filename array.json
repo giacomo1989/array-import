@@ -1,0 +1,14 @@
+{
+   
+    "menu": [
+    {
+        "tipo": "margherita",
+        "prezzo": "costa 8.50"
+    },
+    {
+        "tipo": "diavola",
+        "prezzo": "costa 9.50"
+    }
+    ]
+ 
+}
